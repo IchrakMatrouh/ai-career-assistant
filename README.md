@@ -1,4 +1,3 @@
-# ai-career-assistant
 # AI Portfolio
 
 ## Overview
