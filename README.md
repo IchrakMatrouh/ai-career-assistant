@@ -17,6 +17,7 @@ The portfolio will also integrate AI-powered features to create a more interacti
 - AI chatbot assistant
 - Dark/Light mode
 - GitHub and LinkedIn integration
+- AI-powered recommendations
 
 ## Tech Stack
 
