@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ichrak Matrouh — Portfolio React + AI
 
 A standalone React portfolio exercise for FlyRank's **React app development with AI** assignment.
@@ -81,3 +82,45 @@ Submit:
 1. Live hosted portfolio URL (Vercel/Netlify if deployed)
 2. GitHub repository URL
 3. This README documents the prompts, AI assistance, and manual improvements.
+=======
+# AI Portfolio
+
+## Overview
+
+AI Portfolio is a modern personal portfolio website built to showcase my projects, technical skills, education, certifications, and professional experience.
+
+The portfolio will also integrate AI-powered features to create a more interactive experience for visitors.
+
+## Planned Features
+
+- Responsive portfolio website
+- About Me section
+- Skills section
+- Projects showcase
+- Resume download
+- Contact form
+- AI chatbot assistant
+- Dark/Light mode
+- GitHub and LinkedIn integration
+- AI-powered recommendations
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Node.js
+
+## Project Status
+
+🚧 Project initialization completed.
+
+This project will be developed throughout the FlyRank Front-end AI Engineering Internship.
+
+## Author
+
+**Ichrak Matrouh**
+
+Computer Science & AI Engineering Student
+>>>>>>> fb4d92762394fd8760e535524f7a23bcb6431de5
